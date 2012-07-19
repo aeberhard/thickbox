@@ -1,0 +1,4 @@
+thickbox
+========
+
+REDAXO Addon thickbox
