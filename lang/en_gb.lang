@@ -1,0 +1,38 @@
+# Addon: Thickbox en_gb
+#
+
+menu_link = Thickbox
+title = Addon: Thickbox
+
+text_help_title = <br /><strong>Thickbox Version 1.6</strong><br /><br />
+text_help_1  = This Addon makes the Script <strong>Thickbox 3.1</strong> available.<br /><br />
+text_help_2  = Thickbox is an effective Javascript to the fast announcement of pictures.<br />On modern Browsers the web page is overlaid with the pictures.<br /><br />
+text_help_3  = The Script of Cody Lindley is used. <a href="http://jquery.com/demo/thickbox/" target="_blank">http://jquery.com/demo/thickbox/</a><br /><br />
+text_help_4  = <hr /><br /><strong>How to use</strong><br /><br />
+text_help_5  = 1. select Thickbox for the desired categories<br /><br />
+text_help_6  = 2. to activate the Thickbox simply e.g. with a Thumbnail add <strong>class="thickbox"</strong> to the link<br /><br />
+text_help_7  = 3. if several Thumbnails are to be indicated with the Thickbox, then add <strong>class="thickbox" rel="galeryname"</strong> to the links<br />
+text_help_8  = <br /><br />More Information on the <a href="http://rex.andreaseberhard.de" target="_blank">Webdesign Playground</a> ;-)<br /><br />
+text_help_9  = &nbsp;
+text_help_10 = &nbsp;
+
+text_settings_intro = Here you can select with which categories the Thickbox-Script will be merged into the web page.<br />The Script can be merged either with all categories or only with selected categories.
+text_settings_help = <em>Keep the [Strg] key pressed to select multiple categories!</em>
+text_settings_allcats = <strong>with all categories</strong>
+text_settings_subcats = <strong>inclusive subcategories</strong>
+text_rootarticles = --- Root-Articles ---
+
+msg_saved = <font color="#006600">Settings successfully saved!<br /></font>
+
+error_createdir = Directory could not be created: {0} <br /><br />
+error_readdir = Error reading directory {0} <br /><br />
+error_copyfile = Can't copy file {0} to {1}<br />
+error_save = <font color="#cc0000"><strong>Could not save file {0}! <br /></strong></font>
+error_read = <font color="#cc0000"><strong>File {0} not found! <br /></strong></font>
+
+menu_settings = Settings
+menu_information = Information
+menu_changelog = Changelog
+menu_modules = Sample Module
+
+button_save = Save Settings

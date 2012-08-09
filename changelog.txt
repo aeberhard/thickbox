@@ -1,0 +1,33 @@
+Addon: Thickbox Version 1.6
+
+19.03.2008 Version 1.6 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Anpassung an REDAXO 4.1
+			  - Beispielmodul angepasst
+			  - HTML-Fehler/Warnings bereinigt
+
+10.01.2008 Version 1.5 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Neue Einstellung im Backend, "inklusive Unterkategorien"
+             Artikel aus dem Root werden jetzt auch in der Auswahl berücksichtigt
+             (SelectBox), Output-Filter angepasst
+           - neue Seite mit Beispielmodul im Backend
+           - lang-dateien jetzt auch mit utf8
+
+06.12.2007 Version 1.4 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Anpassung an REDAXO 4.0.x und 3.x
+           - $REX_ARTICLE in function thickbox_opf
+
+22.09.2007 Version 1.3 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Update auf Thickbox Version 3.1
+           - Anpassung Addon-Konfiguration an REDAXO 3.3b2
+
+29.05.2007 Version 1.2 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Update auf Thickbox Version 3
+
+20.02.2007 Version 1.1 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Fatal error in config.inc.php abfangen (bei ungültiger Artikel-Id)
+           - PHP-Warnings entfernen
+
+30.01.2007 Version 1.0 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Erste Version für Redaxo 3.2
+           - Thickbox Version 2.1.1
+  

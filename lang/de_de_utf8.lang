@@ -1,0 +1,38 @@
+# Addon: Thickbox de_de
+#
+
+menu_link = Thickbox
+title = Addon: Thickbox
+
+text_help_title = <br /><strong>Thickbox Version 1.6</strong><br /><br />
+text_help_1  = Dieses Addon stellt das Script <strong>Thickbox 3.1</strong> zur Verf&uuml;gung.<br /><br />
+text_help_2  = Thickbox ist wirkungsvolles Javascript zur schnellen Anzeige von Bildern.<br />Auf modernen Browsern wird die Webseite mit den Bildern &uuml;berlagert.<br /><br />
+text_help_3  = Verwendet wird das Script von Cody Lindley. <a href="http://jquery.com/demo/thickbox/" target="_blank">http://jquery.com/demo/thickbox/</a><br /><br />
+text_help_4  = <hr /><br /><strong>Anwendung</strong><br /><br />
+text_help_5  = 1. Thickbox f&uuml;r die gew&uuml;nschten Kategorien ausw&auml;hlen<br /><br />
+text_help_6  = 2. zum aktivieren der Thickbox einfach z.B. bei einem Thumbnail <strong>class="thickbox"</strong> im Link angeben<br /><br />
+text_help_7  = 3. wenn mehrere Thumbnails mit der Thickbox angezeigt werden sollen, dann <strong>class="thickbox" rel="galeriename"</strong> in den Links angeben<br />
+text_help_8  = <br /><br />Mehr Informationen auf der <a href="http://rex.andreaseberhard.de" target="_blank">Webdesign Spielwiese</a> ;-)<br /><br />
+text_help_9  = &nbsp;
+text_help_10 = &nbsp;
+
+text_settings_intro = Hier k&ouml;nnen Sie ausw&auml;hlen bei welchen Kategorien das Thickbox-Script in die Webseite eingebunden werden soll.<br />Das Script kann entweder bei allen Kategorien oder nur bei ausgew&auml;hlten Kategorien eingebunden werden.
+text_settings_help = <em>Zur Mehrfachauswahl von Kategorien die [Strg]-Taste gedr&uuml;ckt halten!</em>
+text_settings_allcats = <strong>bei allen Kategorien</strong>
+text_settings_subcats = <strong>inklusive Unterkategorien</strong>
+text_rootarticles = --- Root-Arikel ---
+
+msg_saved = <font color="#006600">Einstellungen gespeichert!<br /></font>
+
+error_createdir = Verzeichnis konnte nicht erstellt werden: {0} <br /><br />
+error_readdir = Fehler beim Zugriff auf das Verzeichnis {0} <br /><br />
+error_copyfile = Datei {0} konnte nicht nach {1} kopiert werden <br />
+error_save = <font color="#cc0000"><strong>Datei {0} konnte nicht gespeichert werden! <br /></strong></font>
+error_read = <font color="#cc0000"><strong>Datei {0} konnte nicht gelesen werden! <br /></strong></font>
+
+menu_settings = Einstellungen
+menu_information = Informationen
+menu_changelog = Changelog
+menu_modules = Beispielmodul
+
+button_save = Einstellungen speichern
